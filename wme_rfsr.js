@@ -1,4 +1,4 @@
-/* Remote Faucet Surfer Reward v 1.3  */ 
+/* Remote Faucet Surfer Reward v 1.0.3  */ 
 // https://wmexp.com 
 
 	class _RemoteFaucetSurferReward{
